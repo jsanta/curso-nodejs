@@ -1,0 +1,25 @@
+{
+  "conventionalCommits.scopes": [
+    "sesiones"
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#68A063",
+    "activityBar.background": "#303030",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#32802f",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#68A063",
+    "statusBar.background": "#3C873A",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#599953",
+    "statusBarItem.remoteBackground": "#2f6b2d",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#32802f",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#3C873A",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#85312b"
+}
